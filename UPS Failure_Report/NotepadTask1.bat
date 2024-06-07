@@ -1,0 +1,1 @@
+"C:\Users\376307\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\376307\Documents\UiPath\UPS Failure_Report\Macom_Report.1.0.8.nupkg"
