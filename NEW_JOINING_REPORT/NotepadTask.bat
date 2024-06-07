@@ -1,0 +1,1 @@
+"C:\Users\376307\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\376307\Documents\UiPath\NEW_JOINING_REPORT\NEW_JOINING_REPORT.1.0.1.nupkg"
